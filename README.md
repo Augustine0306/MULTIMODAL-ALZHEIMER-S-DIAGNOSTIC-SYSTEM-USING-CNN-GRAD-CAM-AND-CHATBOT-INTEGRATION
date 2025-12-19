@@ -91,6 +91,7 @@ The system architecture consists of:
 
 ### Output 1 – Home Page
 <img width="635" height="292" alt="image" src="https://github.com/user-attachments/assets/e5f82e81-7f04-43fe-a55c-d4870d7d0e39" />
+
 ### Result Page :
 <img width="697" height="341" alt="image" src="https://github.com/user-attachments/assets/5f5f37b2-185c-40c0-abb9-a3c7240a0864" />
 
